@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "mcrypt": "0.0.7"
+    "mcrypt": "0.0.13"
   },
   "devDependencies": {
     "chai": "1.x",
